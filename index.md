@@ -42,7 +42,6 @@
             
             justify-self: center;
         }
-
         .QRSHOP{
             font-family: 'Nanum Brush Script', cursive;
             font-style: normal;
