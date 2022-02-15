@@ -100,8 +100,8 @@
         <div class="login">
             <div class="form-container ">
 
-                <img class="login_imagen" src="imagenes/login_imagen.png" alt="">
-                <img class="logo_proyecto" src="imagenes/logo_proyecto.png" alt="">
+                <img class="login_imagen" src="DISEÑO EN HTML/imagenes/login_imagen.png" alt="">
+                <img class="logo_proyecto" src="DISEÑO EN HTML/imagenes/logo_proyecto.png" alt="">
                 <h3 class="QRSHOP">QR SHOP </h3>
 
                 <form action="/" class="form">
@@ -125,8 +125,8 @@
                 <input type="submit" value="INICIAR SESIÓN" class="boton_login">
 
                 <img class="logo_apple" src="DISEÑO EN HTML/IMAGENES/apple_logo.png" alt="">
-                <img class="logo_google" src="imagenes/google_logo.png" alt="">
-                <img class="logo_facebook" src="imagenes/facebook_logo.png" alt="">
+                <img class="logo_google" src="DISEÑO EN HTML/imagenes/google_logo.png" alt="">
+                <img class="logo_facebook" src="DISEÑO EN HTML/imagenes/facebook_logo.png" alt="">
 
                 <h3 class="No_cuenta" >No tienes cuenta"</h3>
                 <h3 class="registrate">Registrate</h3>
