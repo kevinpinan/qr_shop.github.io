@@ -125,7 +125,7 @@
 
                 <input type="submit" value="INICIAR SESIÓN" class="boton_login">
 
-                <img class="logo_apple" src="IMAGENES/apple_logo.png" alt="">
+                <img class="logo_apple" src="DISEÑO EN HTML/IMAGENES/apple_logo.png" alt="">
                 <img class="logo_google" src="imagenes/google_logo.png" alt="">
                 <img class="logo_facebook" src="imagenes/facebook_logo.png" alt="">
 
